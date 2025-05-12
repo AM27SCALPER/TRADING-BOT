@@ -1,3 +1,6 @@
-ccxt
+requests
+websocket-client
 pandas
 ta
+ccxt
+
